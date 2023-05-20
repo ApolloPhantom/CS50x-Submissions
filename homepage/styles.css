@@ -1,0 +1,147 @@
+#head{
+    font-size:60px;
+    background-color:black;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border: 10px solid red;
+}
+.container{
+    font-size:30px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid blue;
+    margin: auto;
+}
+#q1{
+    color: red;
+    background-color: black;
+}
+#q2{
+    color: blue;
+    background-color: white;
+}
+#q3{
+    color: green;
+    background-color: black;
+}
+#q4{
+    color: yellow;
+    background-color: black;
+}
+#q5{
+    color: orange;
+    background-color: black;
+}
+.btn{
+    color:white;
+    font-size: 20px;
+    border:2px solid white;
+}
+#q2b1{
+    color:black;
+    border-color: black;
+}
+.pagination{
+    display: flex;
+    justify-content: center;
+    padding-top:20px;
+}
+.page-link{
+    color: black;
+    font-size: 20px;
+}
+#head1{
+    font-size:60px;
+    background-color:blue;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border: 10px solid red;
+}
+#q6{
+    color: red;
+    background-color: black;
+}
+#q7{
+    color: blue;
+    background-color: black;
+}
+#q8{
+    color: green;
+    background-color: black;
+}
+#q9{
+    color: yellow;
+    background-color: black;
+}
+#q10{
+    color: orange;
+    background-color: black;
+}
+#head2{
+    font-size:60px;
+    background-color:green;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border: 10px solid red;
+}
+#q11{
+    color: red;
+    background-color: blue;
+    border: 5px solid black;
+}
+#q12{
+    color: black;
+    background-color: blue;
+    border: 5px solid black;
+}
+#q13{
+    color: green;
+    background-color: blue;
+    border: 5px solid black;
+}
+#q14{
+    color: yellow;
+    background-color: blue;
+    border: 5px solid black;
+}
+#q15{
+    color: orange;
+    background-color: blue;
+    border: 5px solid black;
+}
+#head3{
+    font-size:60px;
+    background-color:blue;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border: 10px solid red;
+}
+#q16{
+    color: red;
+    background-color: green;
+    border: 5px solid black;
+}
+#q17{
+    color: black;
+    background-color: green;
+    border: 5px solid black;
+}
+#q18{
+    color: blue;
+    background-color: green;
+    border: 5px solid black;
+}
+#q19{
+    color: yellow;
+    background-color: green;
+    border: 5px solid black;
+}
+#q20{
+    color: orange;
+    background-color: green;
+    border: 5px solid black;
+}

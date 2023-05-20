@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The average case takes more time than its worst case and much more time than its best case.
+
+sort2 uses: Merge Sort
+
+How do you know?: The worst case takes more time than best case and average case.
+
+sort3 uses: Selection Sort
+
+How do you know?: The time taken by all the cases to complete are similar to each other.Also average case time is greater than sort2's average case time.

@@ -1,0 +1,6 @@
+I would follow Spotify's way to calculate the top 100 songs, by taking average of danceability,valence
+and energy to calculate for audio aura.
+
+This aura may not be representative of listeners as music and songs are divided into different genres
+and sub-genres and listeners have their own preferences. Also the popularity of the artists present in
+production of a song also changes the audio aura.
